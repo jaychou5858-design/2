@@ -1,0 +1,22 @@
+{
+  "short_name": "UniLexicon",
+  "name": "UniLexicon Visual Dictionary",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3233/3233512.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3233/3233512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#f8fafc",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#ffffff",
+  "orientation": "portrait-primary"
+}
